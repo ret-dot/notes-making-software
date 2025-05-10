@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-transformers
-whisper
-spacy
-torch
-pydantic
-python-multipart
